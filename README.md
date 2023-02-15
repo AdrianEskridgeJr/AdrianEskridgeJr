@@ -1,4 +1,4 @@
-<h1>Adrian Eskridge Jr. <br/><a href="https://github.com/joshmadakor1">Data Analyst
+<h1>Adrian Eskridge Jr. <br/><a>Data Analyst
 <h2>👨‍💻 My Projects</h2>
 
 - <b>Sql Projects</b>
